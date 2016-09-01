@@ -1,0 +1,14 @@
+layout_spectrum: 0.12987179961055517
+typography_spectrum: 0.6423267137724906
+color:
+  brandStrength: 0.04235745873302221
+  lightness: 0.6235287312883884
+  saturation: 0.07539565884508193
+  rhythmicContrast: 0.5195393124595284
+  brandColors:
+    - '#FFFFFF'
+    - '#181617'
+    - '#365760'
+    - '#A6A4A5'
+    - '#4A7D81'
+name: TimMcAllister.io
